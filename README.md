@@ -1,5 +1,3 @@
-# Développement des applications
-
 # Instruction
 
 1. Connect to HR Oracle database.
