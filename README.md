@@ -10,5 +10,3 @@ insert into customers(id,name,address,email) values(1,'Samuel Smith','12 Main Av
 
 commit;
 
-
-ElectricVehicleProject
