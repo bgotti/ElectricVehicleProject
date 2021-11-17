@@ -1,5 +1,7 @@
 # Développement des applications
 
+# Instruction
+
 1. Connect to HR Oracle database.
 
 2. Create a customers table: create table customers( id varchar2(5) NOT NULL, name varchar2(20) NOT NULL, address varchar2(20) NOT NULL, email varchar2(20) NOT NULL, CONSTRAINT customers_pk PRIMARY KEY( ID ) ENABLE);
